@@ -6,7 +6,6 @@ Nura Chain brings the **Ethereum Virtual Machine (EVM)** ecosystem to a high-per
 
 [![Website](https://img.shields.io/badge/Website-nurachain.net-111827?style=flat-square)](https://nurachain.net)
 [![Explorer](https://img.shields.io/badge/Explorer-Blockscout-111827?style=flat-square)](https://explorer.nurachain.net)
-[![RPC](https://img.shields.io/badge/RPC-rpc.nurachain.net-111827?style=flat-square)](https://rpc.nurachain.net)
 [![GitHub](https://img.shields.io/badge/GitHub-NuraChain-181717?style=flat-square&logo=github)](https://github.com/NuraChain)
 
 ## What is Nura Chain?
@@ -44,7 +43,6 @@ The network is designed as an open infrastructure layer for decentralized applic
 ### Network
 
 - **Website:** https://nurachain.net
-- **RPC:** https://rpc.nurachain.net
 - **Explorer:** https://explorer.nurachain.net
 - **GitHub Organization:** https://github.com/NuraChain
 
@@ -83,5 +81,4 @@ Nura Chain, NuraChain, Nura blockchain, Nura network, EVM blockchain, EVM compat
 
 - 🌐 [Nura Chain Website](https://nurachain.net)
 - 🔎 [Nura Chain Explorer](https://explorer.nurachain.net)
-- ⚡ [Nura Chain RPC](https://rpc.nurachain.net)
 - 💻 [Nura Chain on GitHub](https://github.com/NuraChain)
